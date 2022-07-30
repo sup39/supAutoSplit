@@ -13,7 +13,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("supAutoSplit")]
-[assembly: AssemblyCopyright("Copyright © 2021 sup39[サポミク]")]
+[assembly: AssemblyCopyright("Copyright © 2021-2022 sup39[サポミク]")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

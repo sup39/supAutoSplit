@@ -16,11 +16,11 @@ namespace LiveSplit.SupAutoSplit {
 
 	public string UpdateName => ComponentName;
 
-	public string XMLURL => "https://301.sup39.ml/LiveSplit/supAutoSplit.xml"; // TODO
+	public string XMLURL => "https://link.sup39.dev/LiveSplit/supAutoSplit.xml"; // TODO
 
-	public string UpdateURL => "https://301.sup39.ml/LiveSplit/supAutoSplit/update"; // TODO
+	public string UpdateURL => "https://link.sup39.dev/LiveSplit/supAutoSplit/update"; // TODO
 
-	public Version Version => Version.Parse("0.1.0");
+	public Version Version => Version.Parse("0.1.1");
 
 	public IComponent Create(LiveSplitState state) => new Component(state);
   }
